@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
         
         
-        <StackPanel Orientation="Horizontal"
+        <StackPanel Orientation="Horizontal" 
                     Margin="10">
             <Button x:Name="btnTablesEquipment"
                     Content="TablesEquipment"
